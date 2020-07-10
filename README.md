@@ -32,9 +32,12 @@
 
 
 
-WIREFRAME
-COMPONENT TREE
-ENDPOINTS
+## WIREFRAME
+
+
+## COMPONENT TREE
+
+## ENDPOINTS
 
 GET - /api/footer/links 
 GET - /api/map/fbi
