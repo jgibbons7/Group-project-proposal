@@ -50,3 +50,5 @@
 - DELETE - /api/footer/links/:id
 - POST - /api/footer/links, body
 
+## Trello Tasks
+![Tasks](https://github.com/jgibbons7/Group-project-proposal/blob/master/screenshots/trello-tasks.png)
