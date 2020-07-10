@@ -41,12 +41,12 @@
 ![ComponentTree](https://github.com/jgibbons7/Group-project-proposal/blob/master/screenshots/component-tree.png)
 ## ENDPOINTS
 
-GET - /api/footer/links 
-GET - /api/map/fbi
-GET - /api/map/iat
-GET - /api/senate/contact
+- GET - /api/footer/links 
+- GET - /api/map/fbi
+- GET - /api/map/iat
+- GET - /api/senate/contact
 
-PUT - /api/footer/links, body
-DELETE - /api/footer/links/:id
-POST - /api/footer/links, body
+- PUT - /api/footer/links, body
+- DELETE - /api/footer/links/:id
+- POST - /api/footer/links, body
 
