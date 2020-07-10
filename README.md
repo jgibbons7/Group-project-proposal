@@ -38,7 +38,7 @@
 
 
 ## COMPONENT TREE
-
+![ComponentTree](https://github.com/jgibbons7/Group-project-proposal/blob/master/screenshots/component-tree.png)
 ## ENDPOINTS
 
 GET - /api/footer/links 
