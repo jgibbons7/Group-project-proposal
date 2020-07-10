@@ -9,7 +9,7 @@
 - Through statistics, data visualization and a call to action.
 
 ### Who is your target user?
-- Skeptical citizens who don’t see a problem.
+- All Americans seeking a greater understanding of inequality.
 
 ### How much experience do they have with technology?
 - Minimal to none.
@@ -25,7 +25,7 @@
 - Footer - links to outside websites.  
 ```diff
  Stretch Goals
- 
+
 - Link to local government to sign petitions.
 
 - Recognition for the ones helping the cause.
