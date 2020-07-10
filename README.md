@@ -33,6 +33,8 @@
 
 
 ## WIREFRAME
+![Wireframe](https://github.com/jgibbons7/Group-project-proposal/blob/master/screenshots/landing-page.png)
+![Wireframe](https://github.com/jgibbons7/Group-project-proposal/blob/master/screenshots/map-explorer.png)
 
 
 ## COMPONENT TREE
