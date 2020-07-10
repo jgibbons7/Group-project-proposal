@@ -24,6 +24,7 @@
 
 - Footer - links to outside websites.  
 ```diff
+- (Stretch Goals)
 - Link to local government to sign petitions.
 
 - Recognition for the ones helping the cause.
