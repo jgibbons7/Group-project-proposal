@@ -6,7 +6,7 @@
 - Educating America on social inequality and injustice.
 
 ### How does this solve those problems?
-- Through data visualization and statistics.
+- Through statistics, data visualization and a call to action.
 
 ### Who is your target user?
 - Skeptical citizens who don’t see a problem.
@@ -23,13 +23,13 @@
 - Navigate statistical breakdowns by state.
 
 - Footer - links to outside websites.  
-
+```diff
 - Link to local government to sign petitions.
 
 - Recognition for the ones helping the cause.
 
 - Node Mailer to local officials.
-
+```
 
 
 ## WIREFRAME
